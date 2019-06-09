@@ -1,4 +1,4 @@
-module github.com/micro/go-plugins
+module github.com/sabaidea/go-plugins
 
 require (
 	cloud.google.com/go v0.39.0
