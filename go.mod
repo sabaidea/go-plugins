@@ -83,7 +83,7 @@ require (
 	github.com/micro/examples v0.1.0
 	github.com/micro/go-bot v1.1.0
 	github.com/micro/go-micro v1.3.0
-	github.com/micro/micro v1.2.0
+	github.com/micro/micro v1.6.0
 	github.com/micro/util v0.2.0
 	github.com/minio/highwayhash v1.0.0
 	github.com/mitchellh/hashstructure v1.0.0
